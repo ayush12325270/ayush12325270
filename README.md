@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
+<h3 align="center">I'm Ayush Jha, a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
