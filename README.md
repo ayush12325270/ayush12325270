@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions. Goal-oriented and hardworking, I embrace challenges as opportunities for growth 📈 . As I pursue my education, I am actively seeking hands-on experiences to complement my skills. My vision 🧠 extends beyond the classroom—I aim to leverage my expertise to contribute to the tech industry, explore entrepreneurial ventures, and thrive in the world of startups. Let's connect 🔗 and explore the exciting intersection of technology, freelancing, and web development, as I work towards making a lasting impact in the ever-evolving tech landscape.</h3>
+<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
-- 🔭 I’m currently working on **my DSA skills.**
+- 🔭 I’m currently working on my DSA skills.
 
-- 🌱 I’m currently learning **Btech in Computer Science and Engineering**
+- 🌱 I’m currently learning Btech in Computer Science and Engineering
 
-- 👯 I’m looking to collaborate **with people having similar area of intrest,work with them and learn new things.**
+- 👯 I’m looking to collaborate with people having similar area of intrest,work with them and learn new things.
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayush-jha-023b92291](www.linkedin.com/in/ayush-jha-023b92291)
 
