@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
-- 🔭 I’m currently working on **my DSA skills.**
+- 🔭 I’m currently working on my DSA skills.
 
-- 🌱 I’m currently learning **Btech in Computer Science and Engineering**
+- 🌱 I’m currently learning Btech in Computer Science and Engineering
 
-- 👯 I’m looking to collaborate **with people having similar area of intrest,work with them and learn new things.**
+- 👯 I’m looking to collaborate with people having similar area of intrest,work with them and learn new things.
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayush-jha-023b92291](www.linkedin.com/in/ayush-jha-023b92291)
 
