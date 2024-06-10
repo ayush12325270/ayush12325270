@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
+<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions. Goal-oriented and hardworking, I embrace challenges as opportunities for growth 📈 . As I pursue my education, I am actively seeking hands-on experiences to complement my skills. My vision 🧠 extends beyond the classroom—I aim to leverage my expertise to contribute to the tech industry, explore entrepreneurial ventures, and thrive in the world of startups. Let's connect 🔗 and explore the exciting intersection of technology, freelancing, and web development, as I work towards making a lasting impact in the ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
-- 🔭 I’m currently working on my DSA skills.
+- 🔭 I’m currently working on **my DSA skills.**
 
-- 🌱 I’m currently learning Btech in Computer Science and Engineering
+- 🌱 I’m currently learning **Btech in Computer Science and Engineering**
 
-- 👯 I’m looking to collaborate with people having similar area of intrest,work with them and learn new things.
+- 👯 I’m looking to collaborate **with people having similar area of intrest,work with them and learn new things.**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayush-jha-023b92291](www.linkedin.com/in/ayush-jha-023b92291)
 
@@ -16,12 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-jha-023b92291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-023b92291" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23028275/ayush-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23028275/ayush-jha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23028275/ayush-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23028275/ayush-jha" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush_jha93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_jha93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushjha17197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushjha17197" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ayushjha17197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ayushjha17197" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ayushjh5hhw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ayushjh5hhw/" height="30" width="40" /></a>
-<a href="https://discord.gg/ayush_jha93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayush_jha93" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayushjh5hhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushjh5hhw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
