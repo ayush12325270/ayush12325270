@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
 <h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
 
-<img align="right" alt="coding" width="400"src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
