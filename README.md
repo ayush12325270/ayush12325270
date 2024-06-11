@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Jha</h1>
-<h3 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h3>
+<h4 align="center">I'm Ayush Jha, 👨🏻‍🎓 a B.Tech student in Computer Science and Engineering, driven by goals and fueled by a passion for technology. With a strong work ethic, I navigate the dynamic world of web development, specializing in C 👨🏻‍💻 , Python, DBMS, HTML, Java, and JavaScript. Beyond academia 📚 , my interests extend to freelancing and startups, where I aspire to make meaningful contributions.</h4>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
-- 🔭 I’m currently working on **my DSA skills.**
+- 🔭 I’m currently working on my DSA skills.
 
-- 🌱 I’m currently learning **Btech in Computer Science and Engineering**
+- 🌱 I’m currently learning Btech in Computer Science and Engineering
 
-- 👯 I’m looking to collaborate **with people having similar area of intrest,work with them and learn new things.**
+- 👯 I’m looking to collaborate with people having similar area of intrest,work with them and learn new things.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ayush-jha93/](https://www.linkedin.com/in/ayush-jha93/)
 
