@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate with people having similar area of intrest,work with them and learn new things.
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayush-jha-023b92291](www.linkedin.com/in/ayush-jha-023b92291)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ayush-jha93](www.linkedin.com/in/ayush-jha93)
 
 - 📫 How to reach me **ayushjha9364@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-jha-023b92291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-023b92291" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-jha93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-jha-023b92291" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23028275/ayush-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23028275/ayush-jha" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush_jha93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush_jha93" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushjha17197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushjha17197" height="30" width="40" /></a>
