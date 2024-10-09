@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush12325270&label=Profile%20views&color=0e75b6&style=flat" alt="ayush12325270" /> </p>
 
-- 🔭 I’m currently working on my DSA skills.
+- 🔭 I’m currently working on my **DSA** skills.
 
 - 🌱 I’m currently learning Btech in Computer Science and Engineering
 
